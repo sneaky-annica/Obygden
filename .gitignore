@@ -1,0 +1,14 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Rider / Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.opensdf
+*.sdf
+*.suo
