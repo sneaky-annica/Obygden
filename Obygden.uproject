@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "{9CFFF640-475C-9451-6BA7-48B6DC92C6FE}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,10 +13,6 @@
 		},
 		{
 			"Name": "TextureGraph",
-			"Enabled": true
-		},
-		{
-			"Name": "WindowsDualsense_ds5w",
 			"Enabled": true
 		},
 		{
